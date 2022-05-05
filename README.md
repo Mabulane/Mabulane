@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Katlego Mabulane
 - 👀 I’m interested in Software Development internship
-- 🌱 I’m currently learning  Web Development (C#, angular)
+- 🌱 I’m currently learning  Web Development (C#, javascrip,php)
 - 📫 How to reach me via mail mabulane_k@outlook.com
 
 <!---
